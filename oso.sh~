@@ -1,0 +1,8 @@
+#!/bin/sh
+cd $(dirname $0)
+BASE=`dirname $0`
+
+#/usr/bin/firefox http://127.0.0.1:9998
+python $BASE/base.py
+#echo "vikas";
+#/usr/bin/firefox http://127.0.0.1:9999

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=OSO
+Comment=My Profile
+Exec=sh -c "`dirname %k`/oso.sh `dirname %k`"
+#Exec=sh -c "python /home/vikas/Downloads/PythonServer-vikas/server.py"
+#Exec=python -c "import sys;sys.path.append('./')" python /home/vikas/Downloads/PythonServer-vikas/server.py
+#Exec=sh -c " BASE=`dirname $0` BASE/vikas"
+Type=Application
+Terminal=true
+

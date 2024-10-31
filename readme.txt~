@@ -1,0 +1,13 @@
+server.py file is the file  to start the server
+
+In the terminal 
+
+=> go to the directory and run "./server.py"
+
+=> This will run the server with cgihttprequest, thus running .py  files
+
+=> In the browser go to localhost:8000/test_cgi.py
+
+=> to run index.html file we need to have simplehttpserver (I have commented the code, to see you can  comment the above code and uncomment the below one. the first line left untouch "#!/usr/bin/env python").
+
+=> Run the html file in browser localhost:8000/alpha.html
